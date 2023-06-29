@@ -1,6 +1,6 @@
-# Turbowarp Extension List V1.2
+# Turbowarp Extension List V1.3
 | Extensions | Author |
-|---|---|
+|---|:---:|
 | [AdmireBlocks](Extensions/AdmireBlocks.js) | [Drannamongtime-MTalt](https://github.com/Drannamongtime-MTalt) |
 | [CN Number](Extensions/CN%20Number.js) | [NOname-awa](https://github.com/NOname-awa) |
 | [Console](Extensions/Console.js) | [OeildeLynx](https://github.com/OeildeLynx) |
@@ -9,6 +9,7 @@
 | [Extra Utilities](Extensions/Extra%20Utilities.js) | ? |
 | [Global Coordinate](Extensions/Global%20Coordinate.js) | [NOname-awa](https://github.com/NOname-awa) |
 | [Images](Extensions/Images.js) | [CST1229](https://github.com/CST1229) |
+| [Javascript](Extensions/Javascript.js) | [BlueDome](https://github.com/BlueDome77) |
 | [LMS Utils](Extensions/LMS%20Utils.js) | [LilyMakesThings](https://github.com/LilyMakesThings) |
 | [Lorem Ipsum Generator](Extensions/Lorem%20Ipsum%20Generator.js) | [Flappy25](https://github.com/Flappy25) |
 | [Math And String](Extensions/Math%20And%20String.js) | [NOname-awa](https://github.com/NOname-awa) |
