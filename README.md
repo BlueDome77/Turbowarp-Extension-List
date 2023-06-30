@@ -1,4 +1,4 @@
-# Turbowarp Extension List V1.4
+# Turbowarp Extension List V1.5
 | Extensions | Author |
 |---|:---:|
 | [AdmireBlocks](Extensions/AdmireBlocks.js) | [Drannamongtime-MTalt](https://github.com/Drannamongtime-MTalt) |
@@ -10,6 +10,7 @@
 | [Extra Utilities](Extensions/Extra%20Utilities.js) | ? |
 | [Global Coordinate](Extensions/Global%20Coordinate.js) | [NOname-awa](https://github.com/NOname-awa) |
 | [Images](Extensions/Images.js) | [CST1229](https://github.com/CST1229) |
+| [Inline Blocks](Extensions/Inline%20Blocks.js) | [CST1229](https://github.com/CST1229) |
 | [Javascript](Extensions/Javascript.js) | [BlueDome](https://github.com/BlueDome77) |
 | [LMS Utils](Extensions/LMS%20Utils.js) | [LilyMakesThings](https://github.com/LilyMakesThings) |
 | [Lorem Ipsum Generator](Extensions/Lorem%20Ipsum%20Generator.js) | [Flappy25](https://github.com/Flappy25) |
@@ -17,6 +18,7 @@
 | [Minecraft](Extensions/Minecraft.js) | ? |
 | [Misc Extension](Extensions/Misc%20Extension.js) | [BunkerStriker](https://github.com/BunkerStriker) |
 | [Morse Code](Extensions/Morse%20Code.js) | [Flappy25](https://github.com/Flappy25) |
+| [Perlin Noise](Extensions/Perlin%20Noise.js) | [Flappy25](https://github.com/Flappy25) |
 | [Profanity API](Extensions/Profanity%20API.js) | [The Shovel](https://github.com/TheShovel) |
 | [Profanity](Extensions/Profanity.js) | [The Shovel](https://github.com/TheShovel) |
 | [Recording](Extensions/Recording.js) | [-SIPC-](https://github.com/SIPC) |
@@ -29,4 +31,5 @@
 | [Text Comparison](Extensions/Text%20Comparison.js) | [Flappy25](https://github.com/Flappy25) |
 | [Textcase](Extensions/Textcase.js) | [Medericoder](https://github.com/Medericoder) |
 | [TurboFoolishness](Extensions/TurboFoolishness.js) | [MDWalters](https://github.com/mdwalters) |
+| [WebGL2](Extensions/WebGL2.js) | [Xeltalliv](https://github.com/Xeltalliv) |
 | [notwait Blocks](Extensions/notwait%20Blocks.js) | [notwait](https://github.com/notwait) |
