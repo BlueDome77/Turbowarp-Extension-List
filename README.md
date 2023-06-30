@@ -1,10 +1,11 @@
-# Turbowarp Extension List V1.3
+# Turbowarp Extension List V1.4
 | Extensions | Author |
 |---|:---:|
 | [AdmireBlocks](Extensions/AdmireBlocks.js) | [Drannamongtime-MTalt](https://github.com/Drannamongtime-MTalt) |
 | [CN Number](Extensions/CN%20Number.js) | [NOname-awa](https://github.com/NOname-awa) |
 | [Console](Extensions/Console.js) | [OeildeLynx](https://github.com/OeildeLynx) |
 | [Custom Reporter](Extensions/Custom%20Reporter.js) | [BunkerStriker](https://github.com/BunkerStriker) |
+| [Discord API](Extensions/Discord%20API.js) | [LilyMakesThings](https://github.com/LilyMakesThings) |
 | [Dot Prop](Extensions/Dot%20Prop.js) | ? |
 | [Extra Utilities](Extensions/Extra%20Utilities.js) | ? |
 | [Global Coordinate](Extensions/Global%20Coordinate.js) | [NOname-awa](https://github.com/NOname-awa) |
