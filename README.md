@@ -1,6 +1,6 @@
-# Turbowarp Extension List V1.5
+# Turbowarp Extension List V1.6
 | Extensions | Author |
-|---|:---:|
+|---|---|
 | [AdmireBlocks](Extensions/AdmireBlocks.js) | [Drannamongtime-MTalt](https://github.com/Drannamongtime-MTalt) |
 | [CN Number](Extensions/CN%20Number.js) | [NOname-awa](https://github.com/NOname-awa) |
 | [Console](Extensions/Console.js) | [OeildeLynx](https://github.com/OeildeLynx) |
@@ -9,6 +9,7 @@
 | [Dot Prop](Extensions/Dot%20Prop.js) | ? |
 | [Extra Utilities](Extensions/Extra%20Utilities.js) | ? |
 | [Global Coordinate](Extensions/Global%20Coordinate.js) | [NOname-awa](https://github.com/NOname-awa) |
+| [ISS Tracker](Extensions/ISS%20Tracker.js) | [Bill Shupp](https://github.com/shupp) |
 | [Images](Extensions/Images.js) | [CST1229](https://github.com/CST1229) |
 | [Inline Blocks](Extensions/Inline%20Blocks.js) | [CST1229](https://github.com/CST1229) |
 | [Javascript](Extensions/Javascript.js) | [BlueDome](https://github.com/BlueDome77) |
@@ -25,10 +26,12 @@
 | [Regular Expression](Extensions/Regular%20Expression.js) | [NOname-awa](https://github.com/NOname-awa) |
 | [Simple Random Numbers](Extensions/Simple%20Random%20Numbers.js) | [Flappy25](https://github.com/Flappy25) |
 | [Splendid Strings](Extensions/Splendid%20Strings.js) | [BookOwl](https://github.com/BookOwl) |
+| [Spotify](Extensions/Spotify.js) | [Eric Rosenbaum](https://github.com/ericrosenbaum) |
 | [Temp Vars & Lists](Extensions/Temp%20Vars%20&%20Lists.js) | [Zro716](https://scratch.mit.edu/users/Zro716/) |
 | [Text 2 Speech](Extensions/Text%202%20Speech.js) | [WP-Studio01](https://github.com/WP-Studio01) |
 | [Text Analyser.js](Extensions/Text%20Analyser.js) | [Flappy25](https://github.com/Flappy25) |
 | [Text Comparison](Extensions/Text%20Comparison.js) | [Flappy25](https://github.com/Flappy25) |
+| [Text To Speech](Extensions/Text%20To%20Speech.js) | [kyleplo](https://github.com/kyleplo) |
 | [Textcase](Extensions/Textcase.js) | [Medericoder](https://github.com/Medericoder) |
 | [TurboFoolishness](Extensions/TurboFoolishness.js) | [MDWalters](https://github.com/mdwalters) |
 | [WebGL2](Extensions/WebGL2.js) | [Xeltalliv](https://github.com/Xeltalliv) |
