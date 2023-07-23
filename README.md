@@ -1,8 +1,9 @@
-# Turbowarp Extension List V1.6
+# Turbowarp Extension List V1.7
 | Extensions | Author |
 |---|---|
 | [AdmireBlocks](Extensions/AdmireBlocks.js) | [Drannamongtime-MTalt](https://github.com/Drannamongtime-MTalt) |
 | [CN Number](Extensions/CN%20Number.js) | [NOname-awa](https://github.com/NOname-awa) |
+| [Canvas](Extensions/Canvas.js) | [lll69](https://github.com/lll69) |
 | [Console](Extensions/Console.js) | [OeildeLynx](https://github.com/OeildeLynx) |
 | [Custom Reporter](Extensions/Custom%20Reporter.js) | [BunkerStriker](https://github.com/BunkerStriker) |
 | [Discord API](Extensions/Discord%20API.js) | [LilyMakesThings](https://github.com/LilyMakesThings) |
@@ -33,6 +34,8 @@
 | [Text Comparison](Extensions/Text%20Comparison.js) | [Flappy25](https://github.com/Flappy25) |
 | [Text To Speech](Extensions/Text%20To%20Speech.js) | [kyleplo](https://github.com/kyleplo) |
 | [Textcase](Extensions/Textcase.js) | [Medericoder](https://github.com/Medericoder) |
+| [Turbo Networking](Extensions/Turbo%20Networking.js) | [MikeDev101](https://github.com/MikeDev101) |
 | [TurboFoolishness](Extensions/TurboFoolishness.js) | [MDWalters](https://github.com/mdwalters) |
+| [Vibrations](Extensions/Vibrations.js) | [gooogle2023](https://scratch.mit.edu/users/gooogle2023/) |
 | [WebGL2](Extensions/WebGL2.js) | [Xeltalliv](https://github.com/Xeltalliv) |
 | [notwait Blocks](Extensions/notwait%20Blocks.js) | [notwait](https://github.com/notwait) |
