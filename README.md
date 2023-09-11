@@ -1,4 +1,4 @@
-# Turbowarp Extension List V1.7
+# Turbowarp Extension List V1.8
 | Extensions | Author |
 |---|---|
 | [AdmireBlocks](Extensions/AdmireBlocks.js) | [Drannamongtime-MTalt](https://github.com/Drannamongtime-MTalt) |
