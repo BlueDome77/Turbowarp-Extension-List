@@ -14,7 +14,6 @@
 | [Images](Extensions/Images.js) | [CST1229](https://github.com/CST1229) |
 | [Inline Blocks](Extensions/Inline%20Blocks.js) | [CST1229](https://github.com/CST1229) |
 | [Javascript](Extensions/Javascript.js) | [BlueDome](https://github.com/BlueDome77) |
-| [LMS Utils](Extensions/LMS%20Utils.js) | [LilyMakesThings](https://github.com/LilyMakesThings) |
 | [Lorem Ipsum Generator](Extensions/Lorem%20Ipsum%20Generator.js) | [Flappy25](https://github.com/Flappy25) |
 | [Math And String](Extensions/Math%20And%20String.js) | [NOname-awa](https://github.com/NOname-awa) |
 | [Minecraft](Extensions/Minecraft.js) | ? |
