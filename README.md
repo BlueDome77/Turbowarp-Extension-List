@@ -1,6 +1,7 @@
-# Turbowarp Extension List V1.8
+# Turbowarp Extension List V1.9
 | Extensions | Author |
-|---|---|
+| ---- | ---- |
+| [3D Math](Extensions/3D%20Math.js) | [ObviousAlexC]() |
 | [AdmireBlocks](Extensions/AdmireBlocks.js) | [Drannamongtime-MTalt](https://github.com/Drannamongtime-MTalt) |
 | [CN Number](Extensions/CN%20Number.js) | [NOname-awa](https://github.com/NOname-awa) |
 | [Canvas](Extensions/Canvas.js) | [lll69](https://github.com/lll69) |
